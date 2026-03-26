@@ -2,7 +2,7 @@
 
 **AIM:**
 
-To determine transient response of a series RLC circuit using Multisim Simulator.
+To determine transient reponse of a series RLC circuit using Multisim Simulator.
 
 **APPARATUS REQUIRED:**
 
